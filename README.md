@@ -1,5 +1,7 @@
 # MakingTeXWork
 
+## tohle jsem si naklonoval z public source dokumentu o TeXu -- až budu mít chuť
+
 This repository contains a snapshot of the sources for
 *Making TeX Work*, a book I wrote in the 1990's.
 
